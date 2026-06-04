@@ -1,0 +1,1 @@
+const o=[{name:"FlowLoss",url:"https://net.u3o.cn/"},{name:"落月API",url:"https://doc.vkeys.cn/"},{name:"小杰工具箱",url:"https://tools.murk.top/"}],t={label:"API 文档",url:"https://doc.murk.top/"},a=[{label:"xiaojieapi@vip.qq.com",url:"mailto:xiaojieapi@vip.qq.com"}];export{t as a,a as c,o as f};

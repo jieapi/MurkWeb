@@ -1,0 +1,1 @@
+import{h as n,j as a}from"./app-C4WVpD2f.js";import{f as r}from"./vendor-vue-CC06Cx2U.js";function d(t,s,o={}){const{limit:i=4}=o,c=()=>{n(t,s)};return{displayedActions:r(()=>a(t).slice(0,i)),loadStats:c}}export{d as u};
